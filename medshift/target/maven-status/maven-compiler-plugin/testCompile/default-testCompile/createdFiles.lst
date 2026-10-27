@@ -1,0 +1,16 @@
+org\medshift\services\personal\TestJupiterCalculPersonalService.class
+org\medshift\services\TestJupiterRepositories.class
+org\medshift\support\DateTest.class
+org\medshift\services\pontaj\TestJupiterCalculPontajService.class
+org\medshift\services\planificare\TestJupiterValidareGraficService.class
+org\medshift\support\TestClockConfig.class
+org\medshift\application\pontaj\TestJupiterPontajWorkflowService.class
+org\medshift\services\pontaj\TestJupiterConformitateService.class
+org\medshift\application\personal\TestJupiterPersonalWorkflowService.class
+org\medshift\support\CeasControlabil.class
+org\medshift\domain\personal\TestJupiterEntitatiPersonal.class
+org\medshift\application\planificare\TestJupiterPlanificareWorkflowService.class
+org\medshift\domain\planificare\TestJupiterGraficLunar.class
+org\medshift\domain\pontaj\TestJupiterEntitatiPontaj.class
+org\medshift\services\planificare\TestJupiterCalculPlanificareService.class
+org\medshift\services\personal\TestJupiterValidarePersonalService.class

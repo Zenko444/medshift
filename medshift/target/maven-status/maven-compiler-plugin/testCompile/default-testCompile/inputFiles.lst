@@ -1,0 +1,16 @@
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\application\personal\TestJupiterPersonalWorkflowService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\application\planificare\TestJupiterPlanificareWorkflowService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\application\pontaj\TestJupiterPontajWorkflowService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\domain\personal\TestJupiterEntitatiPersonal.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\domain\planificare\TestJupiterGraficLunar.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\domain\pontaj\TestJupiterEntitatiPontaj.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\personal\TestJupiterCalculPersonalService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\personal\TestJupiterValidarePersonalService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\planificare\TestJupiterCalculPlanificareService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\planificare\TestJupiterValidareGraficService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\pontaj\TestJupiterCalculPontajService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\pontaj\TestJupiterConformitateService.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\services\TestJupiterRepositories.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\support\CeasControlabil.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\support\DateTest.java
+C:\Users\lungu\Downloads\medshift\medshift\src\test\java\org\medshift\support\TestClockConfig.java
