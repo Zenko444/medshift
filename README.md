@@ -64,5 +64,5 @@ Tests are grouped by layer in `src/test/java`: domain tests without Spring, repo
 ## Team
 
 - Name: Andrei Maria-Teodora
-- Name – Lungu Christian
-- Name – Tăbăcaru Răzvan-Ștefan
+- Name: Lungu Christian
+- Name: Tăbăcaru Răzvan-Ștefan
